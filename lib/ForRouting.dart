@@ -4,6 +4,7 @@ import 'package:topplayer/HomePage.dart';
 import 'package:topplayer/main.dart';
 
 void main() {
+  //شما پروژه را عالی کار کردید. موفق باشید.
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     initialRoute: 'main',
